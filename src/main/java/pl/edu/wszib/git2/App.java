@@ -17,5 +17,7 @@ public class App {
         System.out.println("cos jeszcze nowego !!");
 
         System.out.println("konflikt 2/1");
+
+        System.out.println("konflikt 2/2");
     }
 }
