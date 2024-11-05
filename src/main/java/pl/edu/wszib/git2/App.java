@@ -11,5 +11,7 @@ public class App {
         System.out.println("commit 2 poprawiony");
 
         System.out.println("cos z nowego brancha !!");
+
+        System.out.println("cos nowego z brancha feature");
     }
 }
