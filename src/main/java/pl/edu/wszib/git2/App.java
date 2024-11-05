@@ -5,5 +5,7 @@ public class App {
         System.out.println("GIT2");
 
         System.out.println("zmiana");
+
+        System.out.println("commit 1");
     }
 }
