@@ -7,5 +7,7 @@ public class App {
         System.out.println("zmiana");
 
         System.out.println("commit 1");
+
+        System.out.println("commit 2");
     }
 }
