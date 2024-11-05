@@ -13,5 +13,7 @@ public class App {
         System.out.println("cos z nowego brancha !!");
 
         System.out.println("cos nowego z brancha feature");
+
+        System.out.println("cos jeszcze nowego !!");
     }
 }
