@@ -19,5 +19,9 @@ public class App {
         System.out.println("konflikt 1/1");
 
         System.out.println("konflikt 1/2");
+
+        System.out.println("konflikt 2/1");
+
+        System.out.println("konflikt 2/2");
     }
 }
